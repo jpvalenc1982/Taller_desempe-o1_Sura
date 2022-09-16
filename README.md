@@ -1,5 +1,6 @@
 # TALLER DESEMPEÑO DE PRODUCTO #1
 # Juan Pablo Valencia Ocampo
+# Daniela Carolina Hernández Cano
 ## SURA FORMACIÓN
 ##### DESCRIPCIÓN DEL TALLER
 
